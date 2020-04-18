@@ -31,6 +31,8 @@ I've broken down this project into 4 main steps
     
 # Summary of Findings
 
+Below is just a summary of the analysis and visualizations. For more detailed explanations of the techniques and steps performed, please refer to the actual jupyter notebooks themselves.
+
 ## Preliminary EDA
 
 ### Word Clouds
@@ -98,4 +100,7 @@ There is some art and fine tuning involved with topic modeling. I could definite
 
 ## Conclusion
 
-Even though this was a very open ended project, I managed to learn a bunch of different techniques and practice visualizations. There are a lot of additional steps that can be done that I just didn't have the time to. It would also be interesting to see how these finding match with the music in each song/album.
+Even though this was a very open ended project, I managed to learn a bunch of different techniques and practice visualizations. There are a lot of additional steps that can be done that I just didn't have the time to. 
+It would also be interesting to see 
+* How these findings match with the music in each song/album
+* Do a similar analysis with other artists and compare artists with each other
