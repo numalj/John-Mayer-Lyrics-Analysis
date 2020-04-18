@@ -35,5 +35,5 @@ I've broken down this project into 4 main steps
 ## Preliminary EDA
 Once the lyrics were extracted and cleaned by removing punctuation, quotes, stop words, etc. After accounting for common words, I analysed the lyrics on a album level. Using a word cloud I was able to get a rough idea of what words were prominent in each album.
 
-![WordCloud](/images/wordCloud2.png)
+![WordCloud](/images/wordClouds2.png)
 
