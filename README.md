@@ -7,26 +7,26 @@ Every artist goes through changes in life and their music usually reflects that.
 
 I've broken down this project into 4 main steps
 
-1. **Create the Data Sets**
+1. [**Create the Data Sets**](<1 - Data Collection & EDA - John-Mayer-Lyrics-Analysis.ipynb>)
     1. Use BeutifulSoup and Genius.com API to get Lyrics
     2. Clean and prepare the Data 
     3. Convert the data into required formats (Corpus and Document-Term-Matrix)
 
 
-2. **EDA (Explarotary Data Analysis)**
+2. [**EDA (Explarotary Data Analysis)**](<1 - Data Collection & EDA - John-Mayer-Lyrics-Analysis.ipynb>)
     1. Most common words
     2. Wordclouds
     3. Lexical Richness of Each Album
 
 
-3. **Sentiment Analysis**
+3. [**Sentiment Analysis**](<2 - Sentiment Analysis - JM Lyrics Analysis.ipynb>)
     1. Subjectivity and Polarity of each Album
     2. Changes in Polarity over the years(Albums)
     3. Changes in Polarity in each Album
     4. Comparison of the above results
 
 
-4. **Topic Modeling**
+4. [**Topic Modeling**](<3 - Topic Modeling - JM Lyrics Analysis.ipynb>)
     1. Using LDA (Latent Derilicht Analysis) and NMF (Non-negative Matrix factorization) to identify common topics within songs/albums
     
 # Summary of Findings
