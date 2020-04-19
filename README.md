@@ -100,7 +100,16 @@ There is some art and fine tuning involved with topic modeling. I could definite
 
 ## Conclusion
 
-Even though this was a very open ended project, I managed to learn a bunch of different techniques and practice visualizations. There are a lot of additional steps that can be done that I just didn't have the time to. 
+Even though this was a very open ended project, I managed to learn a bunch of different techniques and practice visualizations. 
+
+It seems like his music varies between both low and higher polarity. It might be related to changes in his personal life. Within each album though, the polarity changes, frequently switching between happy/sad songs.
+
+The albums with the lowest polarity (albums with the most negarive lyrics) are Heavier Things and Battle Studies.
+The most positive album seems to be Paradise Valley.
+
+The three main topics that he sings about seem to be Family, Living Life and Breakups (that's no surprise with most artists is it?)
+
+There are a lot of additional steps that can be done that I just didn't have the time to. 
 It would also be interesting to see 
 * How these findings match with the music in each song/album
-* Do a similar analysis with other artists and compare artists with each other
+* Do a similar analysis with other artists and compare how his lyrics are in terms of sentiment and polarity to other similar artists
